@@ -1,0 +1,17 @@
+.card{
+    height: 370px;
+    background-color: black;
+    color: rgb(242, 246, 21);
+    font-family:'Courier New', Courier, monospace;
+    border: 2px solid rgb(215, 208, 208);
+    border-radius: 25px;
+    -webkit-border-radius: 25px;
+    -moz-border-radius: 25px;
+    -ms-border-radius: 25px;
+    -o-border-radius: 25px;
+    box-shadow: 5px 10px rgb(240, 208, 208);
+}
+.card img{
+    height: 250px;
+    border-radius: 25px;
+}
